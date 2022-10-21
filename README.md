@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xenofon23](https://github.com/xenofon23)
 
-- 💬 Ask me about php,js **df**
+- 💬 Ask me about php,js 
 
 - 📫 How to reach me **pantsosxen23@gmail.com**
 
